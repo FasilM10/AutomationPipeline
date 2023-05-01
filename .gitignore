@@ -1,0 +1,11 @@
+app/.vscode/
+**/__pycache__
+app/env/
+
+./env_var.txt
+/venv
+./venv
+../venv
+../.vscode
+
+*.csv
